@@ -1,0 +1,16 @@
+Hyperparameters
+Experiment 1
+d_embed: 192
+debug: False
+layer_norm_eps: 1e-05
+d_vocab: 50258
+n_ctx: 32
+n_heads: 4
+d_head: 48
+n_layers: 4
+batch: 4
+epochs: 10
+lr: 0.0005
+warmup_steps_ratio: 0.1
+device: cpu
+
